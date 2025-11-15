@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reavel</string>
+
+
+
+<!--    >https://appdoctruyen.onrender.com/-->
+
+    <string name="base_url">https://e22fe9aed09f.ngrok-free.app/</string>
+    <string name="ws_base_url">ws://e22fe9aed09f.ngrok-free.app/ws</string>
+
+
+</resources>
