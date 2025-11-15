@@ -96,8 +96,3 @@ Quản trị viên:
 
 ---
 
-## Thành viên thực hiện
-- **Trần Thị Thu Hoài**
-- **Phạm Ngọc Quang Minh**
-- **Tăng Minh Hoàng**
-- **Nguyễn Minh Thiện**
